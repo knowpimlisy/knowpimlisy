@@ -3,4 +3,4 @@
 - 📖 I’m currently learning Lua,Python,C+ #,JavaScript
 - 🛑 I hate bad code
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PiM-EXE&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=knowpimlisy&theme=radical)
